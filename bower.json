@@ -1,0 +1,8 @@
+{
+  "name": "angular-bootstrap-progressmask",
+  "version": "0.1.0",
+  "main": "angular-bootstrap-progressmask.js",
+  "dependencies": {
+    "angular-bootstrap": "^0.10.0"
+  }
+}
